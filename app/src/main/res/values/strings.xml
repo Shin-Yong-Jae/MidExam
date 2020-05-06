@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MidExam</string>
+    <string name="Confirm">컨펌</string>
+    <string name="DoyouwanttoDelete">삭제하시겠습니까</string>
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+    <string name="create">생성</string>
+    <string name="save">저장</string>
+</resources>
